@@ -19,5 +19,5 @@ from ControladoraGoogleAds import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('ControladoraGoogleAds', views.ControladoraGoogleAds)
+    path('get_gads_data', views.ControladoraGoogleAds)
 ]
