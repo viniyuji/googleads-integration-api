@@ -1,6 +1,6 @@
-developer_token: IEGLmh6BU-BEIioZjIJ1zQ
-client_id: 267246372641-euv7ve36brs4bheg3teveqlhgmkmigdc.apps.googleusercontent.com
-client_secret: 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
-refresh_token: 1//0hHrSqQLf1IagCgYIARAAGBESNwF-L9IrXhA0Iwgq1hBTprXx2EOfgbRTYiyhVve96yfUUE3JiF_hjjuM-daz2SbI70IU4G7pd84
+developer_token:
+client_id:
+client_secret:
+refresh_token:
 use_proto_plus: True
-login_customer_id: 4122414843
+login_customer_id:
