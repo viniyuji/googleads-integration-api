@@ -1,4 +1,3 @@
-# Production Stage
 FROM nginx:stable-alpine as production-stage
 
 RUN apk add --no-cache python3 py3-pip
